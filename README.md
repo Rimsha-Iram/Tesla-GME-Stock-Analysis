@@ -59,4 +59,4 @@ import plotly.graph_objects as go
 
 **All Rights Reserved.** No part of this code may be copied, redistributed, or reused without explicit permission.
 
-This project was originally completed as part of the IBM Data Science course on Coursera. The notebook has been adapted to include only the analysis, and visualizations completed by the author. All template instructions, logos, and login information provided by the course have been removed for clarity and presentation.
+This project was originally completed as part of the IBM Data Analyst course on Coursera. The notebook has been adapted to include only the analysis, and visualizations completed by the author. All template instructions, logos, and login information provided by the course have been removed for clarity and presentation.
