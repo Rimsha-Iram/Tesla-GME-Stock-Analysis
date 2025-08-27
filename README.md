@@ -1,5 +1,5 @@
 # Tesla-GME-Stock-Analysis
-# Extracting and Visualizing Stock Data
+###Extracting and Visualizing Stock Data
 
 ## Description
 This project demonstrates how to **extract, clean, and visualize stock and revenue data** for Tesla and GameStop (GME). The goal is to analyze financial trends and create interactive visualizations using Python.
@@ -30,8 +30,6 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 import plotly.graph_objects as go
-
-# Data Extraction & Visualization of Stock Data
 
 ## Data Extraction & Cleaning
 
